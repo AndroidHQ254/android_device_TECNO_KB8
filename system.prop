@@ -1,0 +1,5 @@
+ro.product.brand=TECNO
+ro.product.name=H624
+ro.product.device=TECNO-KB8
+ro.build.product=kb8_h624
+ro.treble.enabled=true
